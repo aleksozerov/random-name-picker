@@ -50,6 +50,12 @@ yarn build
 ```
 All the build files can be found in `/dist` folder.
 
+### Run tests
+To execute the unit tests:
+```bash
+yarn test
+```
+
 ## General Guidance on Deployment
 
 This app works fine under common static web hosting choices. Here's a general outline of the steps you can follow:
